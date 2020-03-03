@@ -1,6 +1,8 @@
 # prj.JDScraper
  Data Scraper o JD.Com
 
+
+# /src
 爬蟲抓取範例，在京東搜尋"Lenovo"，並抓取用戶評論
 - jdLeovoNB0210.ipynb  Initial, 抓取 product_id, product_name, product_price
 - jdLeovoNB0211.ipynb  抓取 好評率, 評價數 *1page
